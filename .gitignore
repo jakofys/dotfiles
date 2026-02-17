@@ -1,0 +1,7 @@
+# By default ignore all contents, and declare each needed folder
+/*
+!/.gitignore
+
+# Enable waybar configuration
+!/waybar
+!/kitty
